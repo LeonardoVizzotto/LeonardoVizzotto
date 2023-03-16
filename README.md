@@ -9,7 +9,7 @@ A software engineer passionate about web development, UX, accessibility, diversi
 
 - <span role="img" aria-label="Happy face emoji">😄</span> Pronouns: He / Him
 - <span role="img" aria-label="Telescope emoji">🔭</span> I’m currently working on:
-	- [Kencko](https://www.kencko.com) 
+	- [Paytrix](https://paytrix.io/) 
 	- Generative art using [p5Js](https://p5js.org/)
 - <span role="img" aria-label="bulb emoji">:bulb:</span> I'm interested in Typescript, NodeJS, Open Source
 - <span role="img" aria-label="Text balloon emoji">💬</span> Talk to me about Music <span role="img" aria-label="Music emoji">🎵</span>, Tech, anything really.
