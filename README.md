@@ -8,7 +8,7 @@ A software engineer passionate about web development, UX, accessibility, diversi
 🏳️‍🌈 </span> and making products that matter.  
 
 - <span role="img" aria-label="Happy face emoji">😄</span> Pronouns: He / Him
-- <span role="img" aria-label="Telescope emoji">🔭</span> I’m currently working on:
+- <span role="img" aria-label="Telescope emoji">🔭</span>Currently working:
 	- [Paytrix](https://paytrix.io/) 
 	- Generative art using [p5Js](https://p5js.org/)
 - <span role="img" aria-label="bulb emoji">:bulb:</span> I'm interested in Typescript, NodeJS, Open Source
